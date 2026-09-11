@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0035-search-insert-position) |
+| [0628-maximum-product-of-three-numbers](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0069-sqrtx) |
+| [0628-maximum-product-of-three-numbers](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0069-sqrtx) |
+## Sorting
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->
