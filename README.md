@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0162-find-peak-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0704-binary-search) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0069-sqrtx) |
+| [0162-find-peak-element](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0704-binary-search) |
 ## Newton's Method
 |  |
