@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0724-find-pivot-index) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1480-running-sum-of-1d-array](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Newton's Method
 |  |
 | ------- |
@@ -48,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
