@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0628-maximum-product-of-three-numbers](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0704-binary-search) |
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
