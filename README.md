@@ -29,12 +29,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0202-happy-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0202-happy-number) |
 ## Matrix
 |  |
 | ------- |
@@ -77,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
