@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0202-happy-number) |
+| [0344-reverse-string](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0344-reverse-string) |
 ## Matrix
 |  |
 | ------- |
@@ -84,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0202-happy-number) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
