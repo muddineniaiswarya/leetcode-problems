@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0977-squares-of-a-sorted-array](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0917-reverse-only-letters](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0917-reverse-only-letters) |
+| [0977-squares-of-a-sorted-array](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Matrix
 |  |
 | ------- |
