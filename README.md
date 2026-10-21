@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -111,4 +112,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0917-reverse-only-letters](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0917-reverse-only-letters) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
