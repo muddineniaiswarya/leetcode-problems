@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Hash Table
 |  |
 | ------- |
