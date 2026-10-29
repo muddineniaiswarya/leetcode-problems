@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0137-single-number-ii](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0162-find-peak-element) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Sliding Window
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0202-happy-number) |
@@ -130,4 +133,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0342-power-of-four) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
