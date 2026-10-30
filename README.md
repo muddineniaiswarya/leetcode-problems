@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/1051-height-checker) |
 | [1480-running-sum-of-1d-array](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/1051-height-checker) |
 ## Sliding Window
 |  |
 | ------- |
@@ -141,4 +143,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/0075-sort-colors) |
+| [1051-height-checker](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/1051-height-checker) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/muddineniaiswarya/leetcode-problems/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
